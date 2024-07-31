@@ -1,0 +1,12 @@
+.card-hover:hover .card-text {
+    display: block;
+    
+  }
+
+  .card{
+    cursor: pointer;
+  }
+
+  .card-hover .card-text {
+    display: none;
+  }
